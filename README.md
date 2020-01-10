@@ -1,6 +1,7 @@
 # TUSTEP und Github
-## Beispiel 
+## Segment gt_lt
 
-> Hintergrund
+Das Segment transformiert XML-Tags in CDATA
 
-## TUSTEP einrichten
+* Autor Thomas Kollatz
+* Lizenz cc-by 
