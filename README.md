@@ -3,5 +3,5 @@
 
 Das Segment transformiert XML-Tags in CDATA
 
-* Autor Thomas Kollatz
-* Lizenz cc-by 
+* Autor: Thomas Kollatz
+* Lizenz: GNU GPL 2.0 
